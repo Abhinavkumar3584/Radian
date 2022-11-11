@@ -6,10 +6,10 @@ Filter and categorise Youtube videos
 
 ## 2.Built With 
 
-## 3.Programming Languages
+### Programming Languages
 * Python
 
-## 4.Describe
+## 3.Describe
 We have to Given to figure out a Youtube video link,if it is an educational video or not with the help of Machine learning and artificial intelligence,
 Also figure out which BeyondExams category would this video be most suitable for.
 and at last we have to Build a chrome extension that calculates how much time you spent learning about which domains.
@@ -21,6 +21,6 @@ Manu Dev
 Abhinav Kumar
 Shivam Kumar
 
-## 5.References
+## 4.References
 
-## 6.Contributing
+## 5.Contributing
